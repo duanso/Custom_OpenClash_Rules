@@ -6,9 +6,9 @@
 # TOTAL: 7
 IP-CIDR,149.88.82.119/32,no-resolve
 ## Apple software update
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,mesu.apple.com
-DOMAIN-SUFFIX,xp.apple.com
+## DOMAIN-SUFFIX,swdist.apple.com
+## DOMAIN-SUFFIX,swscan.apple.com
+## DOMAIN-SUFFIX,swcdn.apple.com
+## DOMAIN-SUFFIX,gdmf.apple.com
+## DOMAIN-SUFFIX,mesu.apple.com
+## DOMAIN-SUFFIX,xp.apple.com
