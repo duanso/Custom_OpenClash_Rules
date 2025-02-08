@@ -1,0 +1,7 @@
+# NAME: Ziyong direct
+# AUTHOR: duanso
+# REPO: https://github.com/duanso/Custom_OpenClash_Rules
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+IP-CIDR,149.88.82.119/32,no-resolve
