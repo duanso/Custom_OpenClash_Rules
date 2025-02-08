@@ -4,10 +4,10 @@
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 6
 # TOTAL: 7
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,mesu.apple.com
-DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,swdist.apple.com,no-resolve
+DOMAIN-SUFFIX,swscan.apple.com,no-resolve
+DOMAIN-SUFFIX,swcdn.apple.com,no-resolve
+DOMAIN-SUFFIX,gdmf.apple.com,no-resolve
+DOMAIN-SUFFIX,mesu.apple.com,no-resolve
+DOMAIN-SUFFIX,xp.apple.com,no-resolve
 IP-CIDR,149.88.82.119/32,no-resolve
