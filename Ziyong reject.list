@@ -4,9 +4,4 @@
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,mesu.apple.com
-DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,baidu.com
