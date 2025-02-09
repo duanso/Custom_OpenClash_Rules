@@ -4,7 +4,6 @@
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
-## Apple software update
 DOMAIN-SUFFIX,swdist.apple.com
 DOMAIN-SUFFIX,swscan.apple.com
 DOMAIN-SUFFIX,swcdn.apple.com
