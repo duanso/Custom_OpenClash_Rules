@@ -1,13 +1,15 @@
 # NAME: Ziyong DIRECT
 # AUTHOR: duanso
 # REPO: https://github.com/duanso/Custom_OpenClash_Rules
-# DOMAIN: 6
+# DOMAIN: 7
 # DOMAIN-SUFFIX: 0
-# TOTAL: 6
+# TOTAL: 7
+
+# DOMAIN-SUFFIX,07310505.xyz
 DOMAIN-KEYWORD,duanso
 DOMAIN-KEYWORD,icc2022
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,hddolby
 DOMAIN-KEYWORD,btschool
 DOMAIN-KEYWORD,oldtoons
-# DOMAIN-SUFFIX,07310505.xyz
+DOMAIN-SUFFIX,bing.com
